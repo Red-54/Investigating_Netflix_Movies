@@ -40,8 +40,14 @@ The provided Python script (`[script_name.py]`) utilizes pandas for data manipul
 The script will generate three visualizations:
 
 1. A scatter plot depicting movie duration distribution across release years, colored by genre.
+   ![image](https://github.com/Red-54/Investigating_Netflix_Movies/assets/128955905/509f9984-1a54-4133-8d35-02f0e7306091)
+
 2. A line plot showing the average movie duration trend for each genre over release years.
+   ![image](https://github.com/Red-54/Investigating_Netflix_Movies/assets/128955905/1c758096-17f3-4686-b276-9f134d4a8521)
+
 3. A line plot showcasing the number of movies released for each genre across different release years.
+   ![image](https://github.com/Red-54/Investigating_Netflix_Movies/assets/128955905/fe250947-fffd-411f-9bde-0610a8e72380)
+
 
 **Further Exploration:**
 
